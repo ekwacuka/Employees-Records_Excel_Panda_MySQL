@@ -5,7 +5,10 @@
 
    #### Sheet 1: Authentication 
    #### Sheet 2: Employee Records
-   
+
+##### Disclaimer - The datasets are generated through random logic in VBA. 
+##### These are not real human resource data and should not be used for any other purpose other than testing.
+
 ### Import Libraries
 * import pandas as pd
 * import pymysql
