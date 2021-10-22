@@ -1,7 +1,7 @@
 # Excel_Panda_MySQL
 ### This project imports an Excel spreadsheet into Python Pandas Dataframe. 
 ### Conducts some data verifications and then imports the data into a MySQL Database. 
-### It then Separates the Spreadsheet programmatically into 2 separate worksheets into Sheet 
+### It then Separates the Spreadsheet programmatically into 2 separate worksheets. 
 
    #### Sheet 1: Authentication 
    #### Sheet 2: Employee Records
